@@ -2,4 +2,6 @@
 
 password hint: check out digital swags in htm
 
-form link: `???` itni jaldi nahi milegi
+<details>
+  <summary>form link: `???` itni jaldi nahi milegi</summary>
+</details>
