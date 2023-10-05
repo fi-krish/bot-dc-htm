@@ -1,1 +1,5 @@
-intel: a121a91fc92ccde845fefe09d0d9e7928f5f3e46
+# treasure hunt
+
+password hint: check out digital swags in htm
+
+form link: `???` itni jaldi nahi milegi
